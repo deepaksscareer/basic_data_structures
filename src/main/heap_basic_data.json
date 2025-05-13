@@ -1,0 +1,24 @@
+/*Representing at and art*/
+{
+  "value": "a",
+  child_node: {
+    {
+      "value": "t",
+      child_node: {
+      },
+      "is_last": true
+    },
+    {
+      "value": "r",
+      child_node: {
+        { 
+          "value": "t":
+          child_node: {
+          },
+          "is_last": false
+        }
+      },
+      "is_last": false
+    },
+    "is_last": false
+}
