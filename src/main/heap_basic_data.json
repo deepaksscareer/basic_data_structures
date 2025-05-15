@@ -1,0 +1,20 @@
+/*Representing at and art*/
+{
+  "a": {
+    {
+      "t": {
+      },
+      "is_last": true
+    },
+    {
+      "r": {
+        { 
+          "t": {
+          },
+          "is_last": true
+        }
+      },
+      "is_last": false
+    },
+    "is_last": false
+}
