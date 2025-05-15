@@ -1,21 +1,17 @@
 /*Representing at and art*/
 {
-  "value": "a",
-  child_node: {
+  "a": {
     {
-      "value": "t",
-      child_node: {
+      "t": {
       },
       "is_last": true
     },
     {
-      "value": "r",
-      child_node: {
+      "r": {
         { 
-          "value": "t":
-          child_node: {
+          "t": {
           },
-          "is_last": false
+          "is_last": true
         }
       },
       "is_last": false
